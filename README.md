@@ -1,3 +1,4 @@
+![Unlocking AI's Potential](https://github.com/karunyaMunagala12/karunyaMunagala12/blob/main/textanim-OidfS.gif)
 
 
 
