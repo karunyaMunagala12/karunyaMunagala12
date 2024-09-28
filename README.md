@@ -1,3 +1,7 @@
+<marquee behavior="scroll" direction="left"> "Unlocking AI's Potential, One Model at a Time" </marquee>
+
+
+
 # Hello! 👋
 
 I am a Data Scientist and Machine Learning Scientist with strong expertise in Software Development, Machine Learning, NLP, Big Data, and Data Analytics. Currently pursuing my Master's in Data Science at the University of Southern California, I am passionate about solving real-world problems through machine learning and AI-driven solutions.
